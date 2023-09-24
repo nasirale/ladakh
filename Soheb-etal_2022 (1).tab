@@ -1,0 +1,18 @@
+/* DATA DESCRIPTION:
+Citation:	Soheb, Mohd; Ramanathan, Alagappan; Bhardwaj, Anshuman; Coleman, Millie; Spagnolo, Matteo; Rea, Brice R; Singh, Shaktiman; Sam, Lydia (2022): Landsat-based multitemporal glacier inventory data of over four decades (1977-2019) for Ladakh region. PANGAEA, https://doi.org/10.1594/PANGAEA.940994
+Abstract:	This dataset contains Landsat based multitemporal glacier inventories of the four Upper Indus sub-basins (Shayok, Suru, Leh and Zanskar) and three internal drainage basins (Tsokar, Tsomoriri and Pangong) around the Ladakh region for 1977, 1993, 2009 and 2019. The inventory includes all the glaciers (2257) of the region larger than 0.5 km2, covering an area of ~7923 ±106 km2 (equivalent to ~90% of the total glacierised area in the region). The glacier area ranges between 0.5 to 862 km2, most of which belong to the smallest size category (0.5-1 km2). More than 70% of the glaciers are north-facing (NW-N-NE) and concentrated in higher elevation zones between 5000 and 6000m a.s.l. The dataset is a product of a semi-automated approach involving a band ratio approach, manual corrections and quality check.
+Keyword(s):	glaciers; Himalayas; inventory; Ladakh; Landsat
+Related to:	Soheb, Mohd; Ramanathan, Alagappan; Bhardwaj, Anshuman; Coleman, Millie; Rea, Brice R; Spagnolo, Matteo; Singh, Shaktiman; Sam, Lydia (2022): Multitemporal glacier inventory revealing four decades of glacier changes in the Ladakh region. Earth System Science Data, 14(9), 4171-4185, https://doi.org/10.5194/essd-14-4171-2022
+Comment:	It contains basin wise shapefiles of Ladakh glaciers > 0.5km² for 1977, 1993, 2009 and 2019.
+Parameter(s):	Binary Object (Binary) * PI: Soheb, Mohd (https://orcid.org/0000-0001-7788-8894, sohaib.achaa@gmail.com)
+	Binary Object (Media Type) (Binary (Type)) * PI: Soheb, Mohd (https://orcid.org/0000-0001-7788-8894, sohaib.achaa@gmail.com)
+	Binary Object (File Size) [Bytes] (Binary (Size)) * PI: Soheb, Mohd (https://orcid.org/0000-0001-7788-8894, sohaib.achaa@gmail.com)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	3 data points
+Files:	All files referred to in data matrix can be downloaded in one go as ZIP <https://download.pangaea.de/dataset/940994/allfiles.zip> or TAR <https://download.pangaea.de/dataset/940994/allfiles.tar> (PANGAEA user account required). To download single files, use the filename from data matrix appended to "https://download.pangaea.de/dataset/940994/files/".
+*/
+Binary	Binary (Type)	Binary (Size) [Bytes]
+DATA_IN_GEOPACKAGE_FORMAT.zip	application/zip	19.6 MBytes
+DATA_IN_SHAPEFILE_FORMAT.zip	application/zip	19.1 MBytes
+README.txt	text/plain	8.3 kBytes
